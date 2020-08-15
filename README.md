@@ -18,7 +18,7 @@ I create technical content on my [Blog](https://anuragthakur.hashnode.dev)
 - [GitHub](https://github.com/anurag545)
 - [Hashnode](https://anuragthakur.hashnode.dev)
 - [Twitter](https://twitter.com/Anurag_545)
-- [Instagram](https://www.instagram.com/iambolajiayo/)
+- [Instagram](https://www.instagram.com/areweall_loststars/)
 - [LinkedIn](https://www.linkedin.com/in/anurag545)
 
 
