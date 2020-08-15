@@ -1,16 +1,24 @@
-### Hi there 👋
+### Anurag, Thakur 👋
 
-<!--
-**anurag545/anurag545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a JavaScript Developer and Blockchain Enthusiast who currently works as SDE 1 at [Ola](https://www.olacabs.com). I'm passionate about sharing knowledge and developing new stuff.
 
-Here are some ideas to get you started:
+I create technical content on my [Blog](https://anuragthakur.hashnode.dev)
+#### Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning Javascript frameworks and libraries, Blockchain and Ethereum
+- 📫 How to reach me: DM [@Anurag_545](https://twitter.com/Anurag_545)
+
+### Useful Links 💙
+
+- [Blog](https://anuragthakur.hashnode.dev)
+- [Portfolio](https://anurag545.github.io/)
+- [GitHub](https://github.com/anurag545)
+- [Hashnode](https://anuragthakur.hashnode.dev)
+- [Twitter](https://twitter.com/Anurag_545)
+- [Instagram](https://www.instagram.com/iambolajiayo/)
+- [LinkedIn](https://www.linkedin.com/in/anurag545)
+
+
