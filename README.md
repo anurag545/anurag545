@@ -17,12 +17,12 @@ I write some technical content on my [Blog](https://anuragthakur.hashnode.dev)
 
 ### Useful Links 💙
 
-- [Blog](https://anuragthakur.hashnode.dev)
 - [Portfolio](https://anurag545.github.io/)
-- [GitHub](https://github.com/anurag545)
-- [Hashnode](https://anuragthakur.hashnode.dev)
-- [Twitter](https://twitter.com/Anurag_545)
-- [Instagram](https://www.instagram.com/areweall_loststars/)
 - [LinkedIn](https://www.linkedin.com/in/anurag545)
+- [Twitter](https://twitter.com/Anurag_545)
+- [Blog](https://anuragthakur.hashnode.dev)
+- [GitHub](https://github.com/anurag545)
+- [Instagram](https://www.instagram.com/areweall_loststars/)
+
 
 Now, I have to go and code something... :octocat:
