@@ -1,9 +1,9 @@
 ### Anurag, Thakur 👋
 
-I'm a JavaScript Developer and Blockchain Enthusiast who currently works as Software Development Engineer 1 at [Ola](https://www.olacabs.com). I'm passionate about sharing knowledge and developing new stuff.
+I'm a Frontend Developer who currently works as Software Engineer at [CARS24](https://www.cars24.com/ae/). I'm passionate about developing new stuff and sharing knowledge.
 
-- 🔭 I’m currently working on Javascript and React-Native
-- 🌱 I’m currently learning Javascript frameworks and libraries,also exploring Blockchain and Ethereum
+- 🔭 I’m currently working on Javascript, ReactJS and ReduxJS
+- 🌱 I’m currently learning Javascript frameworks and libraries, Web performance, and SEO, and also exploring Redux Splitting and Monolith Architecture
 - 📫 How to reach me: DM [@Anurag_545](https://twitter.com/Anurag_545)
 
 I write some technical content on my [Blog](https://anuragthakur.hashnode.dev)
